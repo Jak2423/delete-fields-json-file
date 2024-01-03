@@ -1,6 +1,6 @@
-# change-file-extension
+# delete-fields-json-file
 
-> Change the file extension of a path
+> Delete fields from JSON Array
 
 ## Install
 
@@ -26,7 +26,7 @@ deleteFieldsFromObjects('foo/bar.json', ['field1', 'field2', 'field3']);
 
 Type: `string`
 
-The json file path whose fields needs to be deleted.
+The json array file path whose fields needs to be deleted.
 
 #### fieldsToDelete
 
