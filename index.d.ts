@@ -1,0 +1,1 @@
+export function deleteFieldsFromObjects(filePath: string, fieldsToDelete: string[]): any;
